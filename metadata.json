@@ -1,0 +1,5 @@
+{
+  "name": "Clinic CRM Connect",
+  "description": "A responsive CRM application for clinic sales staff to manage customer follow-ups. Features role-based access control per branch, Google Sheets integration capability, and AI-powered follow-up script suggestions.",
+  "requestFramePermissions": []
+}
